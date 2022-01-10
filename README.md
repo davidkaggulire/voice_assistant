@@ -12,7 +12,7 @@ Install requirements file
 
 ```pip install -r requirements.txt```
 
-Run  ```python nexus.py ```
+Run  ```python nexus_test.py ```
 
 -----------------------
 For quick reference
@@ -21,7 +21,7 @@ https://pyttsx3.readthedocs.io/en/latest/engine.html#module-pyttsx3.voice
 
 
 Parameters:
-	
+
 *driverName* –
 Name of the pyttsx3.drivers module to load and use. Defaults to the best available driver for the platform, currently:
 
