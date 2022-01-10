@@ -15,9 +15,20 @@ Install requirements file
 Run  ```python nexus.py ```
 
 -----------------------
+For quick reference
+
+https://pyttsx3.readthedocs.io/en/latest/engine.html#module-pyttsx3.voice
 
 
+Parameters:	
+driverName –
+Name of the pyttsx3.drivers module to load and use. Defaults to the best available driver for the platform, currently:
 
+sapi5 - SAPI5 on Windows
+nsss - NSSpeechSynthesizer on Mac OS X
+espeak - eSpeak on every other platform
+
+---
 Author - Zac Nkuutu
 
 Backend implementation - Zac Nkuutu and David
